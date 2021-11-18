@@ -28,4 +28,3 @@ docker-compose up
 http://localhost:3000
 ```
 
->>>>>>> e3a4c6fbba2760a326f914b0210260110c5877e8
