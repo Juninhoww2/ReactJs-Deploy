@@ -7,4 +7,24 @@ Tecnologias:
 Docker
 ReactJs
 
+## Faça o clone do projeto com o git 
+```
+git clone
+```
+
+### Instala as dependencias
+
+```
+yarn start
+```
+
+### rode o docker-compose up 
+```
+docker-compose up 
+```
+
+### Entre no app com a porta 3000
+```
+http://localhost:3000
+```
 
